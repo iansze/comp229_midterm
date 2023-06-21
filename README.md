@@ -9,7 +9,7 @@
 3. create a .env file in the project root and provide the following configuration and adjust the PORT value as needed
 
 PORT=3000
-MONGODB_URI=mongodb://localhost:27017/student-management-system
+MONGODB_URI=mongodb://localhost:27017/Student Information System
 
 4. Start the MongoDB server.
 
